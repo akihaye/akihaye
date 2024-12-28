@@ -2,7 +2,7 @@
 
 - I'm currently studying Internal medicine of Chinese Medicine in Shanghai...
 - A Bachelor's degree in Chinese Medicine from Beijing University of Chinese Medicine
-- I'm currently learning automated process strates with Artificial Intelligence
+- I'm currently learning some little automated process with Artificial Intelligence
 <!--
 **akihaye/akihaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
